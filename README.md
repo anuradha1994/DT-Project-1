@@ -1,5 +1,5 @@
 # DT-Project
-Name:Shopping Cart Back End
+Name:Shopping Cart
 Description:It is an e-commerce website for selling clothes, 
 from which users can buy outfits for men,women and kids online.
 Setup: Eclipse IDE,Spring mvc, Hibernate,JDK and H2 database.
