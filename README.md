@@ -8,3 +8,12 @@ there two types of users who can use this application:
 1. Admin: admin can add,delete and update categories,products and suppliers.
 2. Customer: customer can add products to cart and buy products.
 
+
+
+
+
+
+
+
+*****
+
